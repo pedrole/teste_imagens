@@ -1,0 +1,2 @@
+line1\nthis is a new line
+line3
